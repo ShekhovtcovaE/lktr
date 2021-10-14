@@ -1,0 +1,6 @@
+[project]
+name = lktr-t
+
+[servers.ghpages]
+name = Dev
+target = ghpages+https://ShekhovtcovaE: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@ShekhovtcovaE/lktr-travis
